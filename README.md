@@ -4,6 +4,8 @@
 
 Landing page avec animations JavaScript basées sur le scroll. Démonstration de manipulation DOM et d'animations fluides.
 
+Visitez la page: https://projetsdevfanny.github.io/TP3_FromScratch_Scroll_popup_JS_Vanilla/
+
 ## ✨ Fonctionnalités
 
 - **Navbar dynamique** : Se réduit au scroll (10vh → 4vh)
@@ -57,4 +59,3 @@ let scrollValue =
 
 ---
 
-**Démonstration de maîtrise en développement front-end.**
